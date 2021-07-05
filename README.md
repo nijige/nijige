@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**nijige/nijige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hello everyone! My name is Geane, I am a Systems Developer and passionate about Technology. Thank you for visiting this repository.
 
 Here are some ideas to get you started:
 
