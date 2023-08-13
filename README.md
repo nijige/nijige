@@ -14,5 +14,7 @@
 </div>
 
 
-![](https://github.com/Nijige/Nijige/blob/master/assets/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/nijige/nijige/blob/output/github-contribution-grid-snake.svg)
+
 
