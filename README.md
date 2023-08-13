@@ -15,6 +15,3 @@
 
 
 
-![Snake animation](https://github.com/nijige/nijige/blob/output/github-contribution-grid-snake.svg)
-
-
