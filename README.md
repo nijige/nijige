@@ -17,7 +17,7 @@
 <br>
 
 <div>
-<img src="https://img.freepik.com/fotos-premium/ilustracao-da-galaxia-com-estrelas-e-poeira-espacial-no-universo_564714-239.jpg" width="750" height="505" >
+<img src="https://img.freepik.com/fotos-premium/ilustracao-da-galaxia-com-estrelas-e-poeira-espacial-no-universo_564714-239.jpg" width="750" height="405" >
 
 </div>
 
