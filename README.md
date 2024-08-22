@@ -2,7 +2,7 @@
 
   <a href="https://app.daily.dev/geaneferreirapereira"><img src="https://api.daily.dev/devcards/v2/MVZblinJIuAtPzlYgVYaQ.png?r=cr1" width="356" alt="Geane Ferreira Pereira's Dev Card"/></a>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B14BFDFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Geane+Ferreira+;I'm+from+Brazil;I+graduated+in+information+system;I'm+a+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Geane+Ferreira+;I'm+from+Brazil;I+graduated+in+Information+Systems;+I+have+a+Postgraduate+degree+in+Data+Science;+I'm+a+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
     <a href="https://github.com/nijige"> 
