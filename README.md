@@ -4,7 +4,7 @@
 
 
   <br>
-<a href="https://app.daily.dev/geaneferreirapereira"><img src="https://api.daily.dev/devcards/v2/MVZblinJIuAtPzlYgVYaQ.png?type=default&r=9d2" width="200"  align="right" alt="Geane Ferreira Pereira's Dev Card"/></a>
+<a href="https://app.daily.dev/geaneferreirapereira"><img src="https://api.daily.dev/devcards/v2/MVZblinJIuAtPzlYgVYaQ.png?type=default&r=9d2" width="200" right="150"  align="right" alt="Geane Ferreira Pereira's Dev Card"/></a>
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/geane-ferreira-pereira-nijige) 
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61554414347893)
